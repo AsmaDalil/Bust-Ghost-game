@@ -1,2 +1,2 @@
-# BustGost-game
-Project 3
+# Bust-The-Ghost
+Bust The Ghost probabilistic approach
